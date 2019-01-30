@@ -4,9 +4,9 @@ ScalaExamples
 Examples for tutorials of http://meetfp.com/
 
 Currently, there are two tutorials available.
-* [Scala Basic](http://meetfp.com/en/scala-basic)
-* [Scala Vantage](http://meetfp.com/en/scala-vantage)
+* [Scala Basic](https://fipress.org/book/scala-basic)
+* [Scala Vantage](https://fipress.org/book/scala-vantage)
 
 中文版：
-* [Scala初级教程](http://meetfp.com/zh/scala-basic)
-* [Scala中级教程](http://meetfp.com/zh/scala-vantage)
+* [Scala基础](https://fipress.org/book/scala基础)
+* [Scala进阶](https://fipress.org/book/scala进阶)
